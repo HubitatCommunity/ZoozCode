@@ -1,0 +1,19 @@
+{
+    "packageName": "Zooz GarageDoorOpener Bundle",
+    "author": "Kevin LaFramboise (@krlaframboise)",
+    "minimumHEVersion": "0.0",
+    "dateReleased": "2025-03-26",
+    "releaseNotes": "Initial Release of Code packaged into a Bundle.",
+    "documentationLink": "https://www.support.getzooz.com/kb/article/1128-how-to-use-the-zen17-universal-relay-as-a-garage-door-opener-on-hubitat/",
+    "communityLink": "",
+    "bundles": [
+        {
+            "id": "a09d4345-4155-40ba-b6bb-f1b19cd17bb8",
+            "name": "Zooz GarageDoorOpener Bundle",
+            "namespace": "Zooz",
+            "location": "https://github.com/HubitatCommunity/ZoozCode/raw/main/ZoozGarageDoorOpener.zip",
+            "version": "1.0.0",
+            "required": true
+        }
+    ]
+}
