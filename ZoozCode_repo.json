@@ -1,0 +1,17 @@
+{
+    "author": "Kevin LaFramboise (@krlaframboise)",
+    "gitHubUrl": "https://github.com/HubitatCommunity/",
+    "packages": [
+        {
+            "name": "Zooz GarageDoorOpener Bundle",
+            "id": "b68d1ff7-89f2-42b1-a472-7d29a74f1438",
+            "category": "Control",
+            "tags": [
+                "Lights & Switches",
+                "Tools & Utilities"
+            ],
+            "location": "https://raw.githubusercontent.com/HubitatCommunity/ZoozCode/main/docs/ZoozGarageDoorOpener.json",
+            "description": "Zooz Garage Door Opener code bundle."
+        }
+    ]
+}
