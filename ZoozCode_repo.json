@@ -10,7 +10,7 @@
                 "Lights & Switches",
                 "Tools & Utilities"
             ],
-            "location": "https://raw.githubusercontent.com/HubitatCommunity/ZoozCode/main/docs/ZoozGarageDoorOpener.json",
+            "location": "https://raw.githubusercontent.com/HubitatCommunity/ZoozCode/refs/heads/main/ZoozGarageDoorOpener.json",
             "description": "Zooz Garage Door Opener code bundle."
         }
     ]
