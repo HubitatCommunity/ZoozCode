@@ -12,6 +12,17 @@
             ],
             "location": "https://raw.githubusercontent.com/HubitatCommunity/ZoozCode/refs/heads/main/ZoozGarageDoorOpener.json",
             "description": "Zooz Garage Door Opener code bundle."
+        },
+        {
+            "name": "Zooz GarageDoorOpener Package",
+            "id": "0e02094c-e2ce-43ee-9697-ffdc67d53613",
+            "category": "Control",
+            "location": "https://raw.githubusercontent.com/HubitatCommunity/ZoozCode/refs/heads/main/ZoozGarageDoorOpenerPkg.json",
+            "description": "Zooz Garage Door Opener Apps and virtual Driver.",
+            "tags": [
+                "Lights & Switches",
+                "Tools & Utilities"
+            ]
         }
     ]
 }
