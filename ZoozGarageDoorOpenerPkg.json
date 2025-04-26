@@ -18,9 +18,9 @@
     },
     {
       "id": "7b62ba42-facf-444b-82d4-cd35767b1ba7",
-      "name": "Zooz Garage Door Opener",
+      "name": "Zooz GarageDoor Opener child",
       "namespace": "Zooz",
-      "location": "https://raw.githubusercontent.com/krlaframboise/Hubitat/refs/heads/master/apps/zooz/zooz-garage-door-opener.src/zooz-garage-door-opener.groovy",
+      "location": "https://raw.githubusercontent.com/krlaframboise/Hubitat/refs/heads/master/apps/zooz/zooz-garage-door-opener-app.src/zooz-garage-door-opener-app.groovy",
       "required": true,
       "oauth": false,
       "primary": false
