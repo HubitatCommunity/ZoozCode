@@ -6,6 +6,7 @@
     "releaseNotes": "Initial Release of Code packaged into a Bundle.",
     "documentationLink": "https://www.support.getzooz.com/kb/article/1128-how-to-use-the-zen17-universal-relay-as-a-garage-door-opener-on-hubitat/",
     "communityLink": "",
+    "version": "1.0.2",
     "bundles": [
         {
             "id": "a09d4345-4155-40ba-b6bb-f1b19cd17bb8",
